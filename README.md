@@ -118,6 +118,7 @@ Compared with the baseline, it improved:
 These results indicate improved forecasting performance over the baseline, although prediction errors remain substantial.
 
 ## Interactive Dashboard
+![Fashion Demand Analytics Dashboard](docs/images/dashboard-preview.png)
 
 The project includes a Streamlit dashboard built to present forecasting results and support interactive data exploration.
 
